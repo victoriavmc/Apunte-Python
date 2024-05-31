@@ -32,3 +32,23 @@ En este documento se exploran los módulos y librerías en Python. Se muestran e
 
 Cada documento está diseñado para proporcionar una introducción clara y concisa al tema correspondiente, con ejemplos prácticos que ayudan a reforzar los conceptos aprendidos.
 Se recomienda leerlos en orden para una comprensión completa de los fundamentos de la programación en Python.
+<hr>
+
+# Proyecto en Python usando TKINTER
+
+Este proyecto es una aplicación básica de Python, utilizando diseño visual Tkinter
+
+## Descripción
+
+Este proyecto implementa Tkinter. Está diseñado para ser un ejemplo didáctico y puede ser utilizado como punto de partida para proyectos más complejos.
+
+## Características
+
+- Implementación de una interfaz gráfica utilizando Tkinter.
+- Diseño visual de la aplicación utilizando widgets estándar como botones, etiquetas, entradas de texto, etc.
+- Funcionalidades básicas de interacción con el usuario.
+- Ejemplos de manejo de eventos y acciones del usuario.
+
+# Autora
+  
+  - Victoria VMC
